@@ -1,0 +1,21 @@
+<cliente>
+	<id>1</id>
+	<nome>William</nome>
+	<email>wllfl@ig.com.br</email>
+	<sexo>Masculino</sexo>
+	<cidade>São Roque</cidade>
+</cliente>
+<cliente>
+	<id>2</id>
+	<nome>João</nome>
+	<email>jj@email.com.br</email>
+	<sexo>Masculino</sexo>
+	<cidade>São Paulo</cidade>
+</cliente>
+<cliente>
+	<id>3</id>
+	<nome>Maria</nome>
+	<email>maria@email.com.br</email>
+	<sexo>Feminino</sexo>
+	<cidade>Osasco</cidade>
+</cliente>
